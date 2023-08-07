@@ -1,0 +1,16 @@
+				HÓA ĐƠN
+THÔNG TIN NGƯỜI DÙNG: 
+- ID: 1
+- Tên họ đầy đủ: Hoàng Thái Dúi
+- Số điện thoại: 0969123456
+- Email: dui@gmail.com
+- Địa chỉ nhà: 21K Nguyễn Văn Trỗi
+
+
+THÔNG TIN GIỎ HÀNG
+Số lượng sản phẩm đã mua: 2
+Sản phẩm đã mua: Ngôi Làng Cổ Mộ
+Giá tiền sản phẩm: 157000
+Sản phẩm đã mua: Ngôi Làng Cổ Mộ
+Giá tiền sản phẩm: 157000
+Tổng tiền: 314000 ₫
