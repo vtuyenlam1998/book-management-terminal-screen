@@ -1,0 +1,18 @@
+				HÓA ĐƠN
+THÔNG TIN NGƯỜI DÙNG: 
+- ID: 8
+- Tên họ đầy đủ: Trần Đức Huy
+- Số điện thoại: 0123456789
+- Email: huy@gmail.com
+- Địa chỉ nhà: 123 Codegym, Phú Nhuận
+
+
+THÔNG TIN GIỎ HÀNG
+Số lượng sản phẩm đã mua: 3
+Sản phẩm đã mua: Bạch Dạ Hành
+Giá tiền sản phẩm: 188100
+Sản phẩm đã mua: Bạch Dạ Hành
+Giá tiền sản phẩm: 188100
+Sản phẩm đã mua: Willow Nhút Nhát
+Giá tiền sản phẩm: 104000
+Tổng tiền: 480200 ₫.

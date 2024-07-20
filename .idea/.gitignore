@@ -6,3 +6,11 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/idea/.name
+/idea/misc.xml
+/idea/modules.xml
+/idea/uiDesigner.xml
+/idea/vcs.xml
+/idea/workspace.xml
+/out
+/BookManagement2.iml
